@@ -1,10 +1,11 @@
-# E-Commerce Sales Analytics with AI
+# E-Commerce Sales Analytics with AI (IBM Bob Agent)
 
 ## Project Description
 This project analyzes over 150,000 e-commerce transactions from 2021-2025 to extract insights on revenue, product performance, and customer behavior. It utilizes the **IBM Bob AI Agent** to generate and deploy an unsupervised machine learning model (K-Means Clustering) to segment customers based on purchasing patterns.
 
 ## Dataset
 **E-Commerce Sales Analytics Dataset** (Kaggle)
+Data setLink:https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics
 Files used: `customer_master.csv`, `dataset_statistics.csv`, `ecommerce_sales_customer_analytics_150k.csv`, `order_items.csv`, `product_catalog.csv`.
 
 ## Technologies Used
