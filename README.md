@@ -52,7 +52,7 @@ The notebook writes `customer_segments.csv` (segment of every customer).
 - The data appears simulated, so results describe this dataset only.
 
 ## Project files
-- `KranthiKumar_EcommerceAnalytics.ipynb`: code
+- `KranthiKumar_EcommerceAnalyticswithBobAgent.ipynb`: code
 - `requirements.txt`: dependencies
-- `KranthiKumar_ProjectReport.docx`: full report
+- `KranthiKumar_EcommerceAnalyticswithBobAgentReport.docx`: full report
 - `README.md`: this file
